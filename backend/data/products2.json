@@ -1,0 +1,2003 @@
+[
+	{
+		"name": "electrician",
+		"price": "103.95",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 748,
+		"seller": "Evelyn Nolan",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "27.91",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 622,
+		"seller": "Mufutau Foster",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "fan",
+		"price": "34.26",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 136,
+		"seller": "Macaulay Morrison",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "electrician",
+		"price": "56.62",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 222,
+		"seller": "Kenyon O'connor",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Microwave",
+		"price": "95.57",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 774,
+		"seller": "Brynne Hebert",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "fan",
+		"price": "27.91",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 523,
+		"seller": "Diana Petty",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "fan",
+		"price": "20.63",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 868,
+		"seller": "Sara Benjamin",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Hand",
+		"price": "15.18",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 77,
+		"seller": "Teagan Miller",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "103.97",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 455,
+		"seller": "Germane O'donnell",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "34.26",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 443,
+		"seller": "Tyrone Henson",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "111.14",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 935,
+		"seller": "Kylan Cortez",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "electrician",
+		"price": "43.70",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 460,
+		"seller": "Mollie Washington",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "34.46",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 9,
+		"seller": "Samantha Forbes",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Hand",
+		"price": "104.52",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 328,
+		"seller": "Axel Mills",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "77.70",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 152,
+		"seller": "Briar Pollard",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "80.36",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 294,
+		"seller": "Harding Deleon",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "fan",
+		"price": "79.28",
+		"discription": "",
+		"ratings": 5,
+		"category": "Electronics",
+		"stock": 41,
+		"seller": "Karen Page",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "49.29",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 857,
+		"seller": "Avye Cox",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "86.51",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 445,
+		"seller": "Xandra Sullivan",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "electrician",
+		"price": "97.66",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 39,
+		"seller": "Hillary Crosby",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "43.70",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 748,
+		"seller": "Paloma Joseph",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "fan",
+		"price": "86.51",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 680,
+		"seller": "Randall Yang",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "17.14",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 410,
+		"seller": "Alvin Rosario",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "34.60",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 634,
+		"seller": "Dorothy Harper",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "fan",
+		"price": "103.95",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 609,
+		"seller": "Alexander Chan",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "fan",
+		"price": "110.05",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 663,
+		"seller": "Jonah Brock",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Microwave",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 181,
+		"seller": "Sean Stewart",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "17.01",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 665,
+		"seller": "Deirdre Young",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Microwave",
+		"price": "32.47",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 382,
+		"seller": "Avram Wagner",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "fan",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 693,
+		"seller": "Olympia French",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "fan",
+		"price": "104.52",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 615,
+		"seller": "Allistair Frost",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "99.62",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 780,
+		"seller": "Martin Wilder",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "fan",
+		"price": "86.51",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 389,
+		"seller": "Lenore Pickett",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "78.82",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 253,
+		"seller": "Zelenia Holcomb",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "59.01",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 510,
+		"seller": "Willa Reeves",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "fan",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 14,
+		"seller": "Nyssa Miranda",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "59.96",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 281,
+		"seller": "Leilani Reese",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 659,
+		"seller": "Roth Moreno",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "37.95",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 80,
+		"seller": "Dahlia Hamilton",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "79.01",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 420,
+		"seller": "Beck Merritt",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Hand",
+		"price": "12.58",
+		"discription": "",
+		"ratings": 5,
+		"category": "Electronics",
+		"stock": 704,
+		"seller": "Renee Ramsey",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Microwave",
+		"price": "44.32",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 142,
+		"seller": "Brianna Clements",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "21.96",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 520,
+		"seller": "Herman Waller",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "blender",
+		"price": "63.37",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 454,
+		"seller": "Axel Barnes",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Hand",
+		"price": "10.72",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 424,
+		"seller": "Miranda Bowman",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "fan",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 187,
+		"seller": "Chancellor Skinner",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "electrician",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 343,
+		"seller": "Vera Benjamin",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 242,
+		"seller": "Kareem Sweet",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "blender",
+		"price": "24.30",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 668,
+		"seller": "Lacey Buck",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "89.64",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 662,
+		"seller": "Germaine Irwin",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 991,
+		"seller": "Destiny Lindsey",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "blender",
+		"price": "68.69",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 772,
+		"seller": "Graham Dominguez",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 523,
+		"seller": "Steven Rosa",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Microwave",
+		"price": "66.82",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 263,
+		"seller": "Magee Harris",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "62.66",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 136,
+		"seller": "Moana Chen",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "110.05",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 691,
+		"seller": "Zane Barton",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Hand",
+		"price": "111.14",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 65,
+		"seller": "Dustin Moran",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "95.02",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 743,
+		"seller": "Zenia Wagner",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "44.31",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 7,
+		"seller": "Melvin Spencer",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Hand",
+		"price": "95.02",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 29,
+		"seller": "Wayne Oliver",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Hand",
+		"price": "95.69",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 414,
+		"seller": "Ciara Dale",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "12.58",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 635,
+		"seller": "Leigh Stevenson",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "58.75",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 525,
+		"seller": "Claudia Tyson",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "fan",
+		"price": "12.03",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 184,
+		"seller": "Myles Bartlett",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Microwave",
+		"price": "39.94",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 457,
+		"seller": "Malik Gamble",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Microwave",
+		"price": "59.16",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 295,
+		"seller": "Zeus Henderson",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Microwave",
+		"price": "17.06",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 7,
+		"seller": "Colin Casey",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Hand",
+		"price": "94.02",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 107,
+		"seller": "Dexter Levine",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "99.43",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 631,
+		"seller": "Rigel Green",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "57.04",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 642,
+		"seller": "Regina Stokes",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "111.14",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 936,
+		"seller": "Wanda Avila",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "49.61",
+		"discription": "",
+		"ratings": 5,
+		"category": "Electronics",
+		"stock": 949,
+		"seller": "Quinn Stevenson",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "15.18",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 601,
+		"seller": "Xenos Martin",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "blender",
+		"price": "24.30",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 627,
+		"seller": "Stone Jones",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "12.03",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 5,
+		"seller": "Echo Nichols",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "52.94",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 3,
+		"seller": "Savannah Moore",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "fan",
+		"price": "48.48",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 263,
+		"seller": "Alec Nelson",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "89.64",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 800,
+		"seller": "Kiara Wall",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "62.66",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 747,
+		"seller": "Nigel Rice",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "111.14",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 701,
+		"seller": "Mary Andrews",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Microwave",
+		"price": "59.96",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 958,
+		"seller": "Geoffrey Odom",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Microwave",
+		"price": "34.60",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 670,
+		"seller": "Daquan Neal",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "56.62",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 220,
+		"seller": "Yuli Duran",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 785,
+		"seller": "Signe Willis",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Microwave",
+		"price": "80.62",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 258,
+		"seller": "Ginger Cline",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "63.60",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 619,
+		"seller": "Lars Sosa",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "blender",
+		"price": "95.89",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 349,
+		"seller": "Kathleen Garza",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "ElectricKettle",
+		"price": "59.16",
+		"discription": "",
+		"ratings": 3,
+		"category": "Electronics",
+		"stock": 400,
+		"seller": "Declan Wolfe",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "blender",
+		"price": "24.30",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 811,
+		"seller": "Zena Powell",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "12.58",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 846,
+		"seller": "Quamar Morse",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "fan",
+		"price": "20.26",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 486,
+		"seller": "Phyllis Mcgowan",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 5,
+		"category": "Electronics",
+		"stock": 726,
+		"seller": "Dawn Downs",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "32.47",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 949,
+		"seller": "Florence Stone",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "35.03",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 986,
+		"seller": "Elaine Nielsen",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Hand",
+		"price": "34.60",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 539,
+		"seller": "Ronan Sparks",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 2,
+		"category": "Electronics",
+		"stock": 484,
+		"seller": "Carter George",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "electrician",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 1,
+		"category": "Electronics",
+		"stock": 699,
+		"seller": "Keelie Buchanan",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 5,
+		"category": "Electronics",
+		"stock": 913,
+		"seller": "Shelby Sellers",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "MixerGrinder",
+		"price": "63.37",
+		"discription": "",
+		"ratings": 0,
+		"category": "Electronics",
+		"stock": 893,
+		"seller": "Kane Adams",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Dishwasher",
+		"price": "95.57",
+		"discription": "",
+		"ratings": 4,
+		"category": "Electronics",
+		"stock": 628,
+		"seller": "Lucian Garrett",
+		"address": "DhaPhase5"
+	},
+
+	{
+		"name": "flour",
+		"price": "99.62",
+		"discription": "",
+		"ratings": 0,
+		"category": "general store",
+		"stock": 927,
+		"seller": "Elijah Garner",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "22.89",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 100,
+		"seller": "Moana Morales",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "89.64",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 248,
+		"seller": "Orli Manning",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Sauces",
+		"price": "57.04",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 811,
+		"seller": "Dominique Alford",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "47.75",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 196,
+		"seller": "Piper Mills",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 0,
+		"category": "general store",
+		"stock": 465,
+		"seller": "Ulysses Bowers",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "22.89",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 720,
+		"seller": "Sasha Leonard",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "58.56",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 673,
+		"seller": "Rhona Hopper",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "16.56",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 488,
+		"seller": "Callie Strickland",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "21.85",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 627,
+		"seller": "Deborah Crawford",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "99.43",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 783,
+		"seller": "Zephania Herrera",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Sauces",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 943,
+		"seller": "Valentine Golden",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "drinks",
+		"price": "20.63",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 89,
+		"seller": "Jordan Fitzgerald",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "111.14",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 392,
+		"seller": "Cruz Talley",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 276,
+		"seller": "Sheila Floyd",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Sauces",
+		"price": "62.66",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 692,
+		"seller": "Regan Sosa",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "59.27",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 201,
+		"seller": "Allistair Fuller",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 877,
+		"seller": "Reece Duke",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "rice",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 891,
+		"seller": "Donna Kemp",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "20.26",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 304,
+		"seller": "Jarrod Mejia",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "flour",
+		"price": "49.61",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 417,
+		"seller": "Desirae Leon",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "27.91",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 881,
+		"seller": "Emerson Mckee",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 771,
+		"seller": "Donna Irwin",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "43.70",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 3,
+		"seller": "Caldwell Watts",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 9,
+		"seller": "Jana Massey",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "59.16",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 134,
+		"seller": "Chancellor Allison",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "drinks",
+		"price": "62.66",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 288,
+		"seller": "Tyrone Lucas",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "chocolate",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 266,
+		"seller": "Zoe Riggs",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Sauces",
+		"price": "102.53",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 592,
+		"seller": "Orli Benjamin",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Chips",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 49,
+		"seller": "Basia Morin",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 852,
+		"seller": "Brendan May",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "64.23",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 593,
+		"seller": "Chanda Montoya",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "84.84",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 184,
+		"seller": "Abel Britt",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "103.97",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 138,
+		"seller": "Gail Steele",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "95.02",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 941,
+		"seller": "Ciaran Wyatt",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "chocolate",
+		"price": "58.75",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 351,
+		"seller": "August Reid",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "66.82",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 277,
+		"seller": "John Ellison",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Chips",
+		"price": "34.46",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 224,
+		"seller": "Prescott Benton",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "rice",
+		"price": "59.16",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 483,
+		"seller": "Kato Workman",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "chocolate",
+		"price": "50.36",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 933,
+		"seller": "Alexander Santana",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "rice",
+		"price": "89.64",
+		"discription": "",
+		"ratings": 0,
+		"category": "general store",
+		"stock": 227,
+		"seller": "Imani Thompson",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Sauces",
+		"price": "39.94",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 428,
+		"seller": "Callie Murphy",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "15.18",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 491,
+		"seller": "Naomi Griffin",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "chocolate",
+		"price": "58.75",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 373,
+		"seller": "Olympia Richardson",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "chocolate",
+		"price": "63.60",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 962,
+		"seller": "Paki Durham",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Chips",
+		"price": "12.58",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 100,
+		"seller": "Ann Bruce",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Chips",
+		"price": "77.70",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 668,
+		"seller": "Hilel Walls",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "24.30",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 329,
+		"seller": "Melanie Mcgee",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "rice",
+		"price": "80.36",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 819,
+		"seller": "Stuart May",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "drinks",
+		"price": "92.76",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 674,
+		"seller": "Hedda Pittman",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "49.29",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 951,
+		"seller": "Vivien Mann",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "95.89",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 78,
+		"seller": "Fuller Mccray",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "CookingOil",
+		"price": "92.76",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 753,
+		"seller": "Colby Wilkerson",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "43.70",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 419,
+		"seller": "Cain Neal",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "rice",
+		"price": "24.06",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 345,
+		"seller": "Yoshio Bailey",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "79.28",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 444,
+		"seller": "Neve Schultz",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "CookingOil",
+		"price": "68.69",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 727,
+		"seller": "Regan Valencia",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "flour",
+		"price": "16.56",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 124,
+		"seller": "Kennedy Kelley",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "drinks",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 662,
+		"seller": "Aileen Ramirez",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "99.43",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 353,
+		"seller": "Salvador Deleon",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "99.62",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 543,
+		"seller": "Lucas Parker",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "63.37",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 665,
+		"seller": "Coby Bernard",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "chocolate",
+		"price": "94.02",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 80,
+		"seller": "Kylynn Burt",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Chips",
+		"price": "22.68",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 417,
+		"seller": "Alec Garner",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Chips",
+		"price": "43.70",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 60,
+		"seller": "Charles Stokes",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "rice",
+		"price": "24.06",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 805,
+		"seller": "Acton White",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "CookingOil",
+		"price": "70.44",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 884,
+		"seller": "Carly Olsen",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "99.62",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 310,
+		"seller": "Finn Blackwell",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "CookingOil",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 599,
+		"seller": "Isadora Randall",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "57.99",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 222,
+		"seller": "Hilel Pruitt",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "109.42",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 163,
+		"seller": "Diana Mclean",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Chips",
+		"price": "48.48",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 441,
+		"seller": "Nicole Perez",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Sauces",
+		"price": "95.57",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 490,
+		"seller": "Mechelle Valencia",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "50.36",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 979,
+		"seller": "Ignatius Prince",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "39.24",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 828,
+		"seller": "Steven Brown",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "66.82",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 928,
+		"seller": "Imelda Hendricks",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "rice",
+		"price": "36.53",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 243,
+		"seller": "Martha Chapman",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "drinks",
+		"price": "50.36",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 81,
+		"seller": "Carl Wright",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "flour",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 0,
+		"category": "general store",
+		"stock": 909,
+		"seller": "Paula Webster",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "iceCream",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 401,
+		"seller": "Tyler Boyer",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "111.14",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 664,
+		"seller": "Daphne Buchanan",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "32.40",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 870,
+		"seller": "Cadman Robbins",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 36,
+		"seller": "Kaseem Manning",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 324,
+		"seller": "Elijah Powers",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "24.06",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 314,
+		"seller": "Ina Pena",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "24.06",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 12,
+		"seller": "Kevyn Chase",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "CookingOil",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 617,
+		"seller": "Ethan Fitzpatrick",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "rice",
+		"price": "21.85",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 688,
+		"seller": "Donna Briggs",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Chips",
+		"price": "64.23",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 267,
+		"seller": "Camille Nunez",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "drinks",
+		"price": "58.75",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 477,
+		"seller": "Belle Nelson",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Sauces",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 367,
+		"seller": "Tamara Jensen",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "92.76",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 62,
+		"seller": "Elijah Kemp",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "drinks",
+		"price": "25.06",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 76,
+		"seller": "Rigel Osborne",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "103.97",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 581,
+		"seller": "Bruce Humphrey",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "15.18",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 909,
+		"seller": "Georgia Mcgee",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "15.18",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 513,
+		"seller": "Susan Holloway",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "rice",
+		"price": "61.42",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 11,
+		"seller": "Jasper Weeks",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "chocolate",
+		"price": "103.97",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 241,
+		"seller": "Colorado Mason",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "CookingOil",
+		"price": "59.96",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 899,
+		"seller": "Michelle Barker",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "100.49",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 911,
+		"seller": "Nevada Webster",
+		"address": "DhaPhase6"
+	}
+]

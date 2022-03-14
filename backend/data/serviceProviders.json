@@ -1,0 +1,136 @@
+[
+    {
+    "name" : "Shah Sahab",
+    "email" : "shahSahab@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+},
+
+{
+    "name" : "Rabi",
+    "email" : "Rabi@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],    
+    "numOfReviews": 5
+},
+{
+    "name" : "Uzair",
+    "email" : "uzair@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+},
+{
+    "name" : "Ali",
+    "email" : "ali@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+}
+,
+{
+    "name" : "Huzaifa",
+    "email" : "Huzaifa@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+},
+{
+    "name" : "Amir",
+    "email" : "Amir@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+},
+{
+    "name" : "Hussain",
+    "email" : "Hussain@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+},
+{
+    "name" : "Hassan",
+    "email" : "Hassan@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+},
+{
+    "name" : "Ahmed",
+    "email" : "ahmed@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+},
+{
+    "name" : "Qureshi",
+    "email" : "qurehi@something.com",
+    "password" : "12456",
+    "cnic" : 1234567890123,
+    "phoneNo" : "090078601",
+    "avatar" : {
+        "public_id" :"public_id_1", 
+        "url" : "image_url_1"
+    },
+    "serviceCategories": ["Electronics","Accessories", "OutDoors","Home"],
+    "numOfReviews": 5
+}
+
+
+]

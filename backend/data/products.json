@@ -1,0 +1,22 @@
+{
+    "name" : "Air Conditioner repair",
+
+    "price" : 2000,
+    "discription" : "some discription",
+    "ratings": 4.5,
+    "images" : [
+        {
+           "public_id" : "image_1",
+           "url" : "some_url"
+        }
+    ],
+    "category": "Home",
+    "seller" : "Some shop name",
+ 
+    "numOfReviews": 5,
+    "reviews" : [
+    {    "name" : "shah",
+        "rating" : "4.5",
+        "comment" : "some comments about he service provider"
+    }]
+}

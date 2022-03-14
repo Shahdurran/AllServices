@@ -1,0 +1,31 @@
+{
+  "name": "authentication",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node server.js",
+    "dev": "SET NODE_ENV=DEVELOPMENT& nodemon server.js",
+    "prod": "SET NODE_ENV=PRODUCTION& nodemon server.js",
+    "seeder": "node utils/seeders/seeder.js",
+    "seedProd": "node utils/seeders/seedProduct.js",
+    "seedSp": "node utils/seeders/seedSp.js",
+    "seedUser": "node utils/seeders/seedUser.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^10.0.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "jwt-decode": "^3.1.2",
+    "mongoose": "^6.0.11",
+    "mongoose-encryption": "^2.1.1",
+    "mongoose-random": "^0.1.1",
+    "nodemailer": "^6.7.0",
+    "validator": "^13.6.0"
+  }
+}

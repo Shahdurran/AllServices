@@ -1,0 +1,1002 @@
+[
+	{
+		"name": "flour",
+		"price": "99.62",
+		"discription": "",
+		"ratings": 0,
+		"category": "general store",
+		"stock": 927,
+		"seller": "Elijah Garner",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "22.89",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 100,
+		"seller": "Moana Morales",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "89.64",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 248,
+		"seller": "Orli Manning",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Sauces",
+		"price": "57.04",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 811,
+		"seller": "Dominique Alford",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "47.75",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 196,
+		"seller": "Piper Mills",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 0,
+		"category": "general store",
+		"stock": 465,
+		"seller": "Ulysses Bowers",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "22.89",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 720,
+		"seller": "Sasha Leonard",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "58.56",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 673,
+		"seller": "Rhona Hopper",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "16.56",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 488,
+		"seller": "Callie Strickland",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "21.85",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 627,
+		"seller": "Deborah Crawford",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "99.43",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 783,
+		"seller": "Zephania Herrera",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Sauces",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 943,
+		"seller": "Valentine Golden",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "drinks",
+		"price": "20.63",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 89,
+		"seller": "Jordan Fitzgerald",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "111.14",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 392,
+		"seller": "Cruz Talley",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 276,
+		"seller": "Sheila Floyd",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Sauces",
+		"price": "62.66",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 692,
+		"seller": "Regan Sosa",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "59.27",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 201,
+		"seller": "Allistair Fuller",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 877,
+		"seller": "Reece Duke",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "rice",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 891,
+		"seller": "Donna Kemp",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "20.26",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 304,
+		"seller": "Jarrod Mejia",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "flour",
+		"price": "49.61",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 417,
+		"seller": "Desirae Leon",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "27.91",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 881,
+		"seller": "Emerson Mckee",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 771,
+		"seller": "Donna Irwin",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "43.70",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 3,
+		"seller": "Caldwell Watts",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 9,
+		"seller": "Jana Massey",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "59.16",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 134,
+		"seller": "Chancellor Allison",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "drinks",
+		"price": "62.66",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 288,
+		"seller": "Tyrone Lucas",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "chocolate",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 266,
+		"seller": "Zoe Riggs",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Sauces",
+		"price": "102.53",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 592,
+		"seller": "Orli Benjamin",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Chips",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 49,
+		"seller": "Basia Morin",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 852,
+		"seller": "Brendan May",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "64.23",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 593,
+		"seller": "Chanda Montoya",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "84.84",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 184,
+		"seller": "Abel Britt",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "103.97",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 138,
+		"seller": "Gail Steele",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "95.02",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 941,
+		"seller": "Ciaran Wyatt",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "chocolate",
+		"price": "58.75",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 351,
+		"seller": "August Reid",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "66.82",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 277,
+		"seller": "John Ellison",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "Chips",
+		"price": "34.46",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 224,
+		"seller": "Prescott Benton",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "rice",
+		"price": "59.16",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 483,
+		"seller": "Kato Workman",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "chocolate",
+		"price": "50.36",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 933,
+		"seller": "Alexander Santana",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "rice",
+		"price": "89.64",
+		"discription": "",
+		"ratings": 0,
+		"category": "general store",
+		"stock": 227,
+		"seller": "Imani Thompson",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Sauces",
+		"price": "39.94",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 428,
+		"seller": "Callie Murphy",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "15.18",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 491,
+		"seller": "Naomi Griffin",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "chocolate",
+		"price": "58.75",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 373,
+		"seller": "Olympia Richardson",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "chocolate",
+		"price": "63.60",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 962,
+		"seller": "Paki Durham",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "Chips",
+		"price": "12.58",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 100,
+		"seller": "Ann Bruce",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Chips",
+		"price": "77.70",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 668,
+		"seller": "Hilel Walls",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "24.30",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 329,
+		"seller": "Melanie Mcgee",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "rice",
+		"price": "80.36",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 819,
+		"seller": "Stuart May",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "drinks",
+		"price": "92.76",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 674,
+		"seller": "Hedda Pittman",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "49.29",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 951,
+		"seller": "Vivien Mann",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "95.89",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 78,
+		"seller": "Fuller Mccray",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "CookingOil",
+		"price": "92.76",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 753,
+		"seller": "Colby Wilkerson",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "43.70",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 419,
+		"seller": "Cain Neal",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "rice",
+		"price": "24.06",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 345,
+		"seller": "Yoshio Bailey",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "79.28",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 444,
+		"seller": "Neve Schultz",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "CookingOil",
+		"price": "68.69",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 727,
+		"seller": "Regan Valencia",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "flour",
+		"price": "16.56",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 124,
+		"seller": "Kennedy Kelley",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "drinks",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 662,
+		"seller": "Aileen Ramirez",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "99.43",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 353,
+		"seller": "Salvador Deleon",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "99.62",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 543,
+		"seller": "Lucas Parker",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "63.37",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 665,
+		"seller": "Coby Bernard",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "chocolate",
+		"price": "94.02",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 80,
+		"seller": "Kylynn Burt",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Chips",
+		"price": "22.68",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 417,
+		"seller": "Alec Garner",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Chips",
+		"price": "43.70",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 60,
+		"seller": "Charles Stokes",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "rice",
+		"price": "24.06",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 805,
+		"seller": "Acton White",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "CookingOil",
+		"price": "70.44",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 884,
+		"seller": "Carly Olsen",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "99.62",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 310,
+		"seller": "Finn Blackwell",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "CookingOil",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 5,
+		"category": "general store",
+		"stock": 599,
+		"seller": "Isadora Randall",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "57.99",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 222,
+		"seller": "Hilel Pruitt",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "iceCream",
+		"price": "109.42",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 163,
+		"seller": "Diana Mclean",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Chips",
+		"price": "48.48",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 441,
+		"seller": "Nicole Perez",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Sauces",
+		"price": "95.57",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 490,
+		"seller": "Mechelle Valencia",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "50.36",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 979,
+		"seller": "Ignatius Prince",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "39.24",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 828,
+		"seller": "Steven Brown",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "66.82",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 928,
+		"seller": "Imelda Hendricks",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "rice",
+		"price": "36.53",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 243,
+		"seller": "Martha Chapman",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "drinks",
+		"price": "50.36",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 81,
+		"seller": "Carl Wright",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "flour",
+		"price": "17.73",
+		"discription": "",
+		"ratings": 0,
+		"category": "general store",
+		"stock": 909,
+		"seller": "Paula Webster",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "iceCream",
+		"price": "57.86",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 401,
+		"seller": "Tyler Boyer",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "111.14",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 664,
+		"seller": "Daphne Buchanan",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "32.40",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 870,
+		"seller": "Cadman Robbins",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "flour",
+		"price": "43.51",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 36,
+		"seller": "Kaseem Manning",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "83.15",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 324,
+		"seller": "Elijah Powers",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "24.06",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 314,
+		"seller": "Ina Pena",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Sauces",
+		"price": "24.06",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 12,
+		"seller": "Kevyn Chase",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "CookingOil",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 617,
+		"seller": "Ethan Fitzpatrick",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "rice",
+		"price": "21.85",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 688,
+		"seller": "Donna Briggs",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "Chips",
+		"price": "64.23",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 267,
+		"seller": "Camille Nunez",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "drinks",
+		"price": "58.75",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 477,
+		"seller": "Belle Nelson",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "Sauces",
+		"price": "91.77",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 367,
+		"seller": "Tamara Jensen",
+		"address": "DhaPhase4,"
+	},
+	{
+		"name": "iceCream",
+		"price": "92.76",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 62,
+		"seller": "Elijah Kemp",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "drinks",
+		"price": "25.06",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 76,
+		"seller": "Rigel Osborne",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "iceCream",
+		"price": "103.97",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 581,
+		"seller": "Bruce Humphrey",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "CookingOil",
+		"price": "15.18",
+		"discription": "",
+		"ratings": 4,
+		"category": "general store",
+		"stock": 909,
+		"seller": "Georgia Mcgee",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "chocolate",
+		"price": "15.18",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 513,
+		"seller": "Susan Holloway",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "rice",
+		"price": "61.42",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 11,
+		"seller": "Jasper Weeks",
+		"address": "DhaPhase5"
+	},
+	{
+		"name": "chocolate",
+		"price": "103.97",
+		"discription": "",
+		"ratings": 1,
+		"category": "general store",
+		"stock": 241,
+		"seller": "Colorado Mason",
+		"address": "DhaPhase8"
+	},
+	{
+		"name": "CookingOil",
+		"price": "59.96",
+		"discription": "",
+		"ratings": 2,
+		"category": "general store",
+		"stock": 899,
+		"seller": "Michelle Barker",
+		"address": "DhaPhase6"
+	},
+	{
+		"name": "flour",
+		"price": "100.49",
+		"discription": "",
+		"ratings": 3,
+		"category": "general store",
+		"stock": 911,
+		"seller": "Nevada Webster",
+		"address": "DhaPhase6"
+	}
+]

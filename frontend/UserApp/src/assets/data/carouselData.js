@@ -1,0 +1,105 @@
+export const dummyData = [
+  {
+    url: require('../slide1.jpg'),
+    id: 1,
+  },
+  {
+    url: require('../slide2.jpg'),
+    id: 2,
+  },
+  {
+    url: require('../slide3.jpg'),
+    id: 3,
+  },
+];
+export const bgPics = [
+  {
+    url: require('../work1.jpg'),
+    id: 1,
+  },
+  {
+    url: require('../work2.jpg'),
+    id: 2,
+  },
+  {
+    url: require('../work3.jpg'),
+    id: 3,
+  },
+];
+export const popularSP = [
+  {
+    title: 'Asif Electrics',
+    url: require('../work1.jpg'),
+    experience: '10 years Experience',
+    cost: '$$',
+    category: 'Electrician',
+    visitcharges: '350.00',
+    name: 'Asif',
+    location: 'DHA phase 4',
+    rating: '4.5',
+    id: 1,
+  },
+  {
+    title: 'Rubila Beauty Parlor',
+    url: require('../work2.jpg'),
+    experience: '20 years Experience',
+    cost: '$$$',
+    category: 'Beautician',
+    visitcharges: '500.00',
+    name: 'Rubila',
+    location: 'DHA phase 5',
+    rating: '4.7',
+    id: 2,
+  },
+  {
+    title: 'Ashfaq Computers',
+    url: require('../work3.jpg'),
+    experience: '10 years Experience',
+    cost: '$$$',
+    category: 'Technician',
+    visitcharges: '500.00',
+    name: 'Ashfaq',
+    location: 'DHA phase 6',
+    rating: '4.9',
+    id: 3,
+  },
+];
+export const orderHistory = [
+  {
+    title: 'Asif Electrics',
+    url: require('../work1.jpg'),
+    cost: '$$',
+    date: '24 Dec, 02:33',
+    category: 'Electrician',
+    visitcharges: '350.00',
+    name: 'Asif',
+    location: 'DHA phase 4',
+    id: 1,
+  },
+  {
+    title: 'Rubila Beauty Parlor',
+    url: require('../work2.jpg'),
+    experience: '20 years Experience',
+    date: '24 Dec, 02:33',
+    cost: '$$$',
+    category: 'Beautician',
+    visitcharges: '500.00',
+    name: 'Rubila',
+    location: 'DHA phase 5',
+    rating: '4.7',
+    id: 2,
+  },
+  {
+    title: 'Ashfaq Computers',
+    url: require('../work3.jpg'),
+    experience: '10 years Experience',
+    date: '24 Dec, 02:33',
+    cost: '$$$',
+    category: 'Technician',
+    visitcharges: '500.00',
+    name: 'Ashfaq',
+    location: 'DHA phase 6',
+    rating: '4.9',
+    id: 3,
+  },
+];
